@@ -22,7 +22,7 @@ A structured collection of Data Structures and Algorithms problems solved using 
 ## 🔥 Progress  
 | Topic          | Problems Solved |
 |---------------|----------------|
-| Arrays        | 3 / 20 ✅ |
+| Arrays        | 0 / 20 ✅ |
 | Strings       | 0 / 15 🚧 |
 | Linked Lists  | 0 / 15 🚧 |
 | Trees         | 0 / 15 🚧 |
